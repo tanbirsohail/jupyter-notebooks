@@ -6,4 +6,11 @@ A repository of all my jupyter notebooks to use at mybinder.org. I have added no
 
 I have included a few basic libraries like Numpy, Pandas, Scipy, Matplotlib, Scikit-learn and Folium.
 
-Jupyter Notebooks - Getting Started.ipynb
+### Jupyter Notebooks - Getting Started.ipynb
+This is the place to start if you are new to Jupyter Notebooks.
+
+### Numpy.ipynb
+Some basic features of Numpy is explored here.
+
+## Pandas - Getting Started.ipynb
+Some very basic commands ot handle pandas dataframes.
