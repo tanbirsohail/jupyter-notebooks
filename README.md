@@ -13,4 +13,7 @@ This is the place to start if you are new to Jupyter Notebooks.
 Some basic features of Numpy is explored here.
 
 ## Pandas - Getting Started.ipynb
-Some very basic commands ot handle pandas dataframes.
+Some very basic commands to handle pandas dataframes.
+
+## Drawing Maps in Folium
+Useful tips on drawing maps or plotting geographical data using folium.
