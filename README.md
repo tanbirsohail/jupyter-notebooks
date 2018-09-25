@@ -17,3 +17,6 @@ Some very basic commands to handle pandas dataframes. Also some commonly used ti
 
 ### Drawing Maps in Folium
 Useful tips on drawing maps or plotting geographical data on maps using folium.
+
+### Matplotlib - Getting Started
+Useful beginner friendly material to explore Matplotlib, along with customization options and useful tips.
